@@ -1,6 +1,9 @@
 # flutterui_03
 
-A new Flutter project.
+Flutter ui 3. [just the one on the left]
+ 
+ ![alt text](https://github.com/mastermajisosse/flutterui_03/blob/master/assets/preview.png?raw=true)
+
 
 ## Getting Started
 
